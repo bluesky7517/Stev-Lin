@@ -15,10 +15,8 @@ You can know [me via Linkin](www.linkedin.com/in/stev-lin-5167b473).
 
 #### crossfit everyday '!'
 
-##### Exercise is just like breath in my life 
-
-love that alive feeling after WOD. 
-
+    Exercise is just like breath in my life 
+    love that alive feeling after WOD. 
     Through the CrossFit I feel I’m stronger and fit, but more importantly, I feel like I have become a  more open and positive person. CrossFit has also given me a second family. I’m proud of becoming a CrossFiter.
 
 ![Crossfit](https://user-images.githubusercontent.com/18455390/41848503-3acfb852-78b0-11e8-9bef-9213cb141ee8.jpg)
