@@ -5,8 +5,8 @@
 You can know [me via Linkin](www.linkedin.com/in/stev-lin-5167b473).
 
 ### Dog Lover
-#### Junior is a cute lovly white mix dog
-#### He is 7 years old
+Junior is a cute lovly white mix dog<br>
+He is 7 years old<br>
     
 ![Junior](https://user-images.githubusercontent.com/18455390/41848323-ac3ec66e-78af-11e8-9cb5-46e518175e29.jpg)
 
@@ -15,9 +15,8 @@ You can know [me via Linkin](www.linkedin.com/in/stev-lin-5167b473).
 
 #### crossfit everyday
 
-##### Exercise is just like breath in my life 
-
-##### love that alive feeling after WOD. 
+Exercise is just like breath in my life <br>
+love that alive feeling after WOD. <br>
 
 Through the CrossFit I feel I’m stronger and fit, but more importantly, <br> I feel like I have become a  more open and positive person.<br> CrossFit has also given me a second family. I’m proud of becoming a CrossFiter.<br>      
 
