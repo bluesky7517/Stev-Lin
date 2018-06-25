@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Stev's Pages
 
-You can use the [editor on GitHub](https://github.com/bluesky7517/page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can know [a bit about me](www.linkedin.com/in/stev-lin-5167b473).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Gog Lover
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -21,9 +19,18 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+### Crossfiter
+
+crossfit everyday !
+
+![Crossfit](https://drive.google.com/file/d/1em8mchgDeI8a8o7KUGLQYfAMSLAWy8o_/view?usp=sharing)
+```
+
+
+
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Crossfit](https://drive.google.com/file/d/1em8mchgDeI8a8o7KUGLQYfAMSLAWy8o_/view?usp=sharing)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
