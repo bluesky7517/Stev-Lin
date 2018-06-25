@@ -6,7 +6,7 @@ You can know [a bit about me via Linkin](www.linkedin.com/in/stev-lin-5167b473).
 
 Junior is a cute  lovly white mix dog 
 
-![Alternate image text](https://someurl/imagelocation/image.png)
+![My Love](Stev-Lin/IMG_5003.jpg)
 
 ```markdown
 Syntax highlighted code block
@@ -25,7 +25,7 @@ crossfit everyday !
 
 ![Crossfit](https://imgur.com/a/2xUMOMn)
 
-![Crossfit](Stev-Lin/14570400_1143058825742978_3727405472864037904_n.jpg)
+![Crossfit](Stev-Lin/IMG_5233.jpg)
 
 
 
