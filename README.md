@@ -6,7 +6,7 @@ You can know [a bit about me via Linkin](www.linkedin.com/in/stev-lin-5167b473).
 
 Junior is a cute  lovly white mix dog 
 
-![img_5233](https://user-images.githubusercontent.com/18455390/41848323-ac3ec66e-78af-11e8-9cb5-46e518175e29.jpg)
+![Junior](https://user-images.githubusercontent.com/18455390/41848323-ac3ec66e-78af-11e8-9cb5-46e518175e29.jpg)
 
 
 ```markdown
@@ -24,9 +24,11 @@ Syntax highlighted code block
 
 crossfit everyday !
 
-![Crossfit](https://imgur.com/a/2xUMOMn)
+![Crossfit](https://user-images.githubusercontent.com/18455390/41848503-3acfb852-78b0-11e8-9bef-9213cb141ee8.jpg)
 
-![Crossfit](Stev-Lin/IMG_5233.jpg)
+
+### Nicole & Stev
+![My Love](https://user-images.githubusercontent.com/18455390/41848492-36a34bfe-78b0-11e8-9fc8-48e43d670e46.jpg)
 
 
 
