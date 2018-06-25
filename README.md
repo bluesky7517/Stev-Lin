@@ -19,7 +19,7 @@ You can know [me via Linkin](www.linkedin.com/in/stev-lin-5167b473).
 
 ##### love that alive feeling after WOD. 
 
-###### Through the CrossFit I feel I’m stronger and fit, but more importantly, <br> I feel like I have become a  more open and positive person.<br> CrossFit has also given me a second family. I’m proud of becoming a CrossFiter.<br>      
+Through the CrossFit I feel I’m stronger and fit, but more importantly, <br> I feel like I have become a  more open and positive person.<br> CrossFit has also given me a second family. I’m proud of becoming a CrossFiter.<br>      
 
 ![Crossfit](https://user-images.githubusercontent.com/18455390/41848503-3acfb852-78b0-11e8-9bef-9213cb141ee8.jpg)
 
