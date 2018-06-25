@@ -28,8 +28,7 @@ Through the CrossFit I feel I’m stronger and fit, but more importantly, <br> I
 
 #### The most beautiful girl with a kindly heart
 
-##### She is a TD (Technical Designer) in the 
-Garment industry. She loves her job and I love her. She walk into my life when I in the most darkness of my life, she just like a sun lighting my heart, kindly softly. 
+She is a TD (Technical Designer) in the Garment industry. <br>She loves her job and I love her. <br>She walk into my life when I in the most darkness of my life, <br>she just like a sun lighting my heart, kindly softly.<br> 
 
 ![Nicole Chen](https://user-images.githubusercontent.com/18455390/41859353-97d9c42a-78ce-11e8-9de7-09a92a8d29ab.jpg)
 
@@ -37,6 +36,6 @@ Garment industry. She loves her job and I love her. She walk into my life when I
 
 #### Simple Life within Love
 
-##### We like to walk Junior at the riverside on the weekend and cook healthy food (most the same dishes every day)
+We like to walk Junior at the riverside on the weekend<br> and cook healthy food (most the same dishes every day)<br>
 
 ![My Love](https://user-images.githubusercontent.com/18455390/41848492-36a34bfe-78b0-11e8-9fc8-48e43d670e46.jpg)
