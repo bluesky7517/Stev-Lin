@@ -6,6 +6,8 @@ You can know [a bit about me via Linkin](www.linkedin.com/in/stev-lin-5167b473).
 
 Junior is a cute  lovly white mix dog 
 
+![Alternate image text](https://someurl/imagelocation/image.png)
+
 ```markdown
 Syntax highlighted code block
 # Header 1
